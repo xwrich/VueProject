@@ -1,0 +1,62 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 E2FE-E5E8
+E:.
+│  App.vue
+│  list.txt
+│  main.js
+│  wmc.txt
+│  
+├─assets
+│  │  logo.png
+│  │  
+│  ├─image
+│  │      search.png
+│  │      
+│  ├─static
+│  │  ├─goods
+│  │  │      bama01.jpg
+│  │  │      bama02.jpg
+│  │  │      bama03.jpg
+│  │  │      bama04.jpg
+│  │  │      Lee01.jpg
+│  │  │      Lee02.jpg
+│  │  │      Lee03.jpg
+│  │  │      Lee04.jpg
+│  │  │      nuotai01.jpg
+│  │  │      nuotai02.jpg
+│  │  │      nuotai03.jpg
+│  │  │      qixi01.jpg
+│  │  │      qixi02.jpg
+│  │  │      qixi03.jpg
+│  │  │      qixi04.jpg
+│  │  │      
+│  │  └─swiper
+│  │          1.jpg
+│  │          2.jpg
+│  │          3.jpg
+│  │          4.jpg
+│  │          5.jpg
+│  │          
+│  └─stylesheets
+│          global.css
+│          
+├─components
+│      Nav.vue
+│      
+├─router
+│      index.js
+│      
+├─store
+│      index.js
+│      
+├─utils
+│      require.js
+│      
+└─views
+        Cart.vue
+        Goods.vue
+        Home.vue
+        Login.vue
+        Order.vue
+        Register.vue
+        
