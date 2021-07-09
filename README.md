@@ -12,7 +12,36 @@
 
 
 
-## 项目架构
+## 二、开发环境
+
++ Nodejs v12.22.1
++ Npm 6.14.12
+
+## 三、快速部署
+
+克隆此项目
+
+```js
+git clone https://github.com/OriginalCoder0/VueProject
+```
+
+进入`gmc`或者`wmc`，其中任意一个文件夹中，安装依赖
+
+```js
+npm install
+```
+
+运行项目
+
+```js
+npm run serve
+```
+
+
+
+
+
+## 四、项目架构
 
 > ```
 > --  App.vue
@@ -80,11 +109,11 @@
 
 
 
-## 说明
+## 五、说明
 
 在文件夹中存在`gmc`和`wmc`，这是两个类似的项目，但唯一不同的是，`gmc`是采用Vue3.x+ElementUI3.x，`wmc`是采用Vue2.x+ElementUI2.x。其他代码类似。
 
-## 运行效果
+## 六、运行效果
 
 1. 注册
 
